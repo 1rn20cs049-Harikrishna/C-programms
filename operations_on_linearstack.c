@@ -55,19 +55,4 @@ void display(int q[],int r,int f)
      for(i=f;i<=r;i++)
        printf("%d ",q[i]);
        printf("\n");
-}    
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
+}  
