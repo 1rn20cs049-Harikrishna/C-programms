@@ -1,3 +1,3 @@
 # C-programms
 ## Few basic programs
-> C - few 
+> C - is best low level language
